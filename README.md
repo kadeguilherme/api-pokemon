@@ -23,11 +23,12 @@ $ docker run -d -p 3000:3000 --name apipokemoncontainer apipokemon
   <img src="https://github.com/kadeguilherme/api-pokemon/blob/master/prints/pagina2.png" alt="Card-01">
     </td>
 </table>
-##Feito com ❤
+
+## Feito com ❤
   <table >
     <td align= 'center'>
       <a hrfe= '#'>
-         <img src="https://github.com/kadeguilherme/api-pokemon/blob/master/public/emoji.svg" width="100px;" alt="Avatar"/><br>
+         <img src="https://github.com/kadeguilherme/api-pokemon/blob/master/public/emoji.svg" width="100px;" alt="Avatar"/> <br>
         <sub>
           <b>Guilherme Aguiar </b>
         </sub>
