@@ -1,7 +1,7 @@
 O projeto "API Pokemon" é uma pagina web que tem a função de gerar os pokemons randomicamente.
 O projeto tem finalidade de reforça meus estudos com Docker.
 ## 💻 Pré-requisitos
-  - No windows DOCKER Destokp instalado
+  - No windows ter o DOCKER Destokp instalado
 
 ## 🚀 Execução do projeto
 
